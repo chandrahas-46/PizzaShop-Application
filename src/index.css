@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    /* background-image: linear-gradient(to top, #fff1eb 0%, #caeeff 100%); */
+    background-image: linear-gradient(to top, #fff1eb 0%, #caeeff 100%);
+    background-attachment: fixed;
+}
+/* rafce */
